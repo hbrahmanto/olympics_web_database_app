@@ -1,2 +1,2 @@
-# olympics_web_database_app
+# Olympics Web Database App
 Coursework for Web Programming
