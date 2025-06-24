@@ -4,4 +4,4 @@ Coursework for the module called Web Programming in which I had to create a web 
 # What I Learned
 * SQL queries
 * The use of JSON data formats
-* Implementation of CSS, JavaScript and HTML
+* Implementation of CSS, JavaScript, HTML and PHP
